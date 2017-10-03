@@ -1,0 +1,2 @@
+read a a := 2 read b b := 3 write ( a )
+
